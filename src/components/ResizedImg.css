@@ -1,0 +1,8 @@
+.image-container{
+  display: flex;
+  align-items: center; /* Vertically center the content */
+  justify-content: center; /* Horizontally center the content */
+  width: 100%; /* Optional: Adjust the width of the container */
+  height: 100%; /* Optional: Adjust the height of the container */
+  margin-top: 0px;
+}

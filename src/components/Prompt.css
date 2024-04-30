@@ -1,0 +1,15 @@
+.prompt-container {
+  padding-left: 25px;
+  padding-bottom: 150px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.prompt-text {
+  font-size: 4em;
+  border: solid black 2px;
+  background-color: whitesmoke;
+  text-align: center;
+  padding: 50px 75px;
+  margin-top: 10px;
+}

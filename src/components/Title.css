@@ -1,0 +1,8 @@
+.card-title {
+  font-family: Arial, sans-serif; /* Specify the font family */
+  font-size: 1.5vw; /* Set font size based on 5% of the viewport width */
+  color: blue; /* Specify the font color */
+  /* Add any other font styling properties as needed */
+  display: flex;
+  justify-content: center;
+}
