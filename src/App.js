@@ -10,8 +10,9 @@ function App() {
   return (
     <div className="grid">
       <div className="grid-container">
-        <Card data={data} />
-        <Card data={data} />
+          <Card data={data} />
+          <Card data={data} />
+
         <Prompt text="I Want" />
       </div>
     </div>
