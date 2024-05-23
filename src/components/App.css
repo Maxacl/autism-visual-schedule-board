@@ -1,0 +1,20 @@
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  border: solid tan 3px;
+  border-radius: 5px;
+  background-color: #aedefc5c;
+  padding: 20px 0px 20px 20px;
+}
+
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(5, auto); /* 5 columns with equal width */
+  gap: 15px;
+  row-gap: 25px;
+}
+
+.card{
+  cursor: pointer;
+}
+
